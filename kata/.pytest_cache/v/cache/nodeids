@@ -1,0 +1,6 @@
+[
+  "tests/test_clock.py::test_it_ticks_every_min",
+  "tests/test_clock.py::test_it_beeps_every_hour",
+  "tests/test_clock.py::test_it_wakes_up_at_7_am",
+  "tests/test_skeleton.py::test_fib"
+]
